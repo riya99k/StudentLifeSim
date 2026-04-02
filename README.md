@@ -6,6 +6,7 @@ Really, there are a lot of factors and stats that affect high school kids.
 I made this to prepare for my APCSA exam, but Java is really fun :)
 
 import java.util.Scanner; 
+
 import java.util.Random;
 
 
